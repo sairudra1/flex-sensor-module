@@ -12,6 +12,8 @@ Extra components → not beginner-friendly
 
 <img width="808" height="727" alt="4layer_3d" src="https://github.com/user-attachments/assets/bd6eadd0-093f-4082-a2e0-f153b2f9e845" />
 <img width="351" height="628" alt="4_Layer" src="https://github.com/user-attachments/assets/9861d499-8f81-488d-a4b0-75fe4c04b83e" />
+<img width="567" height="538" alt="image" src="https://github.com/user-attachments/assets/1e9b59c8-ab83-4e77-9b78-cde5076b156d" />
+
 
 this one is 4 layer pcb design
 
